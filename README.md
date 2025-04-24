@@ -1,73 +1,52 @@
-# Welcome to your Lovable project
+# 📋 ListMyCopies
 
-## Project info
+**ListMyCopies** is a lightweight, macOS menu bar app that gives you full control over your clipboard history.  
+Instantly recall, reuse, and re-copy any previously copied text—without breaking your workflow.
 
-**URL**: https://lovable.dev/projects/bf77d17e-82fc-4969-933c-6c1008ca773d
+> ⚡ Built with SwiftUI – Designed by [Herimanana Rasolonirina](https://github.com/herimanana301)  
+> ❤️ Crafted by the BlueTech team
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- ⌨️ **Global Shortcut**  
+  Press **Option + V** anywhere on macOS to instantly open your clipboard history.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bf77d17e-82fc-4969-933c-6c1008ca773d) and start prompting.
+- 🧠 **Automatic Clipboard Tracking**  
+  Each time you copy something, it’s saved in your history—automatically.
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🖱️ **One-Click Recopy**  
+  Click a previous entry to bring it back to the top of the list and re-copy it into your clipboard.
 
-**Use your preferred IDE**
+- ⚙️ **Customizable History Limit**  
+  Choose how many items you want to keep (5, 10, or 20) based on your needs.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🌙 **Runs in the Background**  
+  No dock icon, no distraction—just a clean menu bar experience.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🖥️ Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. **Download the `.dmg`** from the [Releases](https://github.com/your-username/ListMyCopies/releases) section.
+2. Open it and drag **ListMyCopies.app** to your `Applications` folder.
+3. Launch the app and grant clipboard access if prompted.
+4. You're all set! Use **Option + V** to open the history anytime.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🧑‍💻 About BlueTech
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+> *BlueTech was born from a shared vision among a group of young developers who refused to be confined by outdated work models.  
+We saw the rigid structures of traditional tech companies and knew there was another way—  
+a way that embraces creativity, freedom, and innovation.  
+We wanted to break free from the conventional, challenge the status quo, and redefine what it means to work in technology.*
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🤝 Contributing
 
-**Use GitHub Codespaces**
+Pull requests are welcome! If you’d like to improve this project or suggest a new feature, feel free to open an issue or fork the repo.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bf77d17e-82fc-4969-933c-6c1008ca773d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
