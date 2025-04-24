@@ -29,7 +29,7 @@ Instantly recall, reuse, and re-copy any previously copied text—without breaki
 
 ## 🖥️ Installation
 
-1. **Download the `.dmg`** from the [Releases](https://github.com/your-username/ListMyCopies/releases) section.
+1. **Download the `.dmg`** from the [Releases](https://github.com/BlueTech-team/listmycopies-clipboard-flow/releases) section.
 2. Open it and drag **ListMyCopies.app** to your `Applications` folder.
 3. Launch the app and grant clipboard access if prompted.
 4. You're all set! Use **Option + V** to open the history anytime.
