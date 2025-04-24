@@ -16,8 +16,11 @@ export const Hero = () => {
       <p className="text-xl md:text-2xl text-gray-600 text-center mb-6">
         Your clipboard history, reimagined.
       </p>
-      <p className="text-lg text-gray-600 text-center max-w-2xl mb-8">
+      <p className="text-lg text-gray-600 text-center max-w-2xl mb-4">
         Built for power users, ListMyCopies offers a simple, smooth way to keep track of everything you copy. Never lose an important piece of text, a useful link, or a snippet again.
+      </p>
+      <p className="text-sm text-gray-500 text-center mb-6">
+        by Herimanana Rasolonirina
       </p>
       <Button size="lg" className="bg-brand-blue hover:bg-brand-blue/90">
         <Download className="mr-2 h-5 w-5" />
